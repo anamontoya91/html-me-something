@@ -1,0 +1,55 @@
+html, body {
+    font-size:18px;
+    line-height:20px;
+    font-family:'Helvetica Neue';
+    color:#FFFFFF; 
+}
+
+h1 {
+    color:#FF8C00;
+    text-align: center;
+}
+
+html, h5, h6 {
+    color:#8B0000; 
+}
+
+h5, h6, header, footer, blockquote {
+    text-align: center;
+}
+
+blockquote {
+    font-size:22px;
+}
+
+header, footer {
+    color:#8B0000; 
+}
+
+blockquote {
+    font-weight: bold;
+}
+
+html, background {
+    background-color: #193d52;
+}
+
+#main {
+    float: center;
+    font-weight: bold;
+}
+
+.end{
+    text-align: center;
+    font-weight: bold;
+}
+
+html {
+    position:relative;
+    width:890px;
+    min-height:100%;
+    height:auto;
+    margin:0px auto 0px auto;
+    padding-bottom:100px;
+    padding-top: 100px;
+ }
